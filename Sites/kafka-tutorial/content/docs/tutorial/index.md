@@ -250,6 +250,8 @@ Alternatively, you can run this command to verify.
 
 `docker ps`
 
+![container-status](images/docker-ps.png)
+
 ### Running the Application
 
 We will try one more time to run the application and this time it should work.
@@ -268,21 +270,9 @@ Now on the right side in your teminal, you should see `Consumed message: test me
 
 In this way we created a simple demo app for Kafka, with a producer and consumer.
 
-**Follow up:**
+**Follow up assignment:**
 
-Now lets dockerize the entire application, by including the producer and consumer to the docker-compose.yml file.
-
-```yaml
-
-```
-
-Run `docker-compose up -d`
-
-Follow the same steps on postman to start the producer. 
-
-Run following command to see the messages being consumed.
-
-`docker logs -f kafka-app`
+Try to include the spring boot application to the same docker-compose and make them communicate among themselves via a network.
 
 **Clean up**
 
