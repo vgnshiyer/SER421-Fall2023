@@ -3,7 +3,7 @@ title: 'Learning Outcomes'
 date: 2019-02-11T19:30:08+10:00
 draft: false
 weight: 1
-summary: What the learner should achieve at the end of the tutorial.
+summary: Upon completion of this learning module, participants will understand Apache Kafka's core concepts, architecture, and installation, while also gaining practical skills in creating Producers and Consumers, implementing Kafka Streams, utilizing Kafka Connect, and optimizing performance in a production environment.
 ---
 
 ### **By the end of this tutorial, you should be able to:**
