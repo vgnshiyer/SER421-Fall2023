@@ -6,6 +6,6 @@ date: 2018-11-28T15:14:39+10:00
 # Team 3
 
 ### Vignesh Venkatachalam Iyer
-### Devanshu Desai
+### Devanshu Amitkumar Desai
 ### Amit Ashutosh Dave
 ### Adit Sandeep Virkar
