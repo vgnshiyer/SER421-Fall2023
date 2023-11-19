@@ -3,7 +3,7 @@ title: 'Learning Outcomes'
 date: 2019-02-11T19:30:08+10:00
 draft: false
 weight: 1
-summary: What the learner should achieve at the end of the tutorial.
+summary: Upon completion of this learning module, participants will understand how to use Kafka for quick and effective handling of real-time data, helping them become skilled in data streaming by the end of the lesson.
 ---
 
 ### **By the end of this tutorial, you should be able to:**

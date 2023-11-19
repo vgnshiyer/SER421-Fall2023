@@ -3,7 +3,7 @@ title: 'Tutorial'
 date: 2019-02-11T19:27:37+10:00
 draft: false
 weight: 2
-summary: A complete set of activities that the user can follow along to learn the technology.
+summary: The page serves as a tutorial of Apache Kafka, offering a comprehensive guide to understanding and implementing the key concepts of this widely-used distributed streaming platform. It is a valuable resource for those seeking to understand, implement, and manage Kafka for real-time data processing in diverse applications.
 ---
 
 ### **Brief Overview**

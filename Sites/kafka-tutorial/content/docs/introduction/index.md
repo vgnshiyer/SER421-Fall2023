@@ -3,7 +3,7 @@ title: "Introduction"
 date: 2019-02-11T19:30:08+10:00
 draft: false
 weight: 2
-Summary: A summary of the history of the technology, including references and discussion of any relevant standards This does not have to be long, but it should be complete – summarize the history and the adopted standards (and by what standards organization)
+Summary: This module gives a brief yet comprehensive look at the journey of Apache Kafka, highlighting its historical development and adherence to relevant standards, providing a concise overview of its significance in data streaming and processing.
 ---
 
 ### **Brief History of Apache Kafka**
