@@ -38,6 +38,7 @@ summaryLength = 30
     meta_description = "Hugo Whisper is a documentation theme built with Hugo."
 
   [params.logo]
-      mobile = "/images/kafka.svg"
-      standard  = "/images/kafka.svg"
+      mobile = "/images/learn.svg"
+      standard  = "/images/learn.svg"
+      kafka = "/images/kafka.svg"
 

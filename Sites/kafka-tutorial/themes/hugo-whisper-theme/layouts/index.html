@@ -12,7 +12,10 @@
   <div class="container pt-4 pb-16">
     <div class="row">
       <div class="col-12">
-        <h1 class="title">{{ .Title | default .Site.Title }}</h1>
+        <div class="d-flex align-items-center justify-content-center">
+          <h1 class="title"><strong>{{ .Title | default .Site.Title }}</strong></h1>
+          <img class="logo align-self-center" src="{{ .Site.Params.logo.kafka | relURL }}" />
+      </div>
         <div class="content">
           {{ if .Content }}
           {{ .Content }}
