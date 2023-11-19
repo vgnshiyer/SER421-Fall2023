@@ -3,7 +3,7 @@ title: 'Tutorial'
 date: 2019-02-11T19:27:37+10:00
 draft: false
 weight: 2
-summary: The Apache Kafka tutorial provides a comprehensive introduction to Kafka, a distributed streaming platform designed for real-time data processing. It covers Kafka's architecture, core components like Producers, Consumers, Topics, and Partitions, and explains the publish-subscribe pattern. The tutorial guides users through setting up a Kafka environment using Spring Boot, creating a Kafka Producer and Consumer, and configuring Kafka within a Spring Boot application. Additionally, it demonstrates the setup of a mini Kafka cluster using Docker and offers insights into best practices for maintaining Kafka clusters in production. This tutorial serves as a valuable resource for beginners, offering practical steps to understand, implement, and manage Kafka for real-time data feeds in various applications.
+summary: The page serves as a tutorial of Apache Kafka, offering a comprehensive guide to understanding and implementing the key concepts of this widely-used distributed streaming platform. It is a valuable resource for those seeking to understand, implement, and manage Kafka for real-time data processing in diverse applications.
 ---
 
 ### **Brief Overview**
